@@ -1,3 +1,3 @@
 This is simple responsive Website.
 
-![Screenshot](Desktop version.png)
+![](Desktop%20version.png)
