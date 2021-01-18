@@ -1,5 +1,3 @@
 This is simple responsive Website.
 
-![plot](Desktop version.png)
-
-![plot](Mobile version.png)
+![Alt text](Desktop version.jpg?raw=true "Desktop version")
